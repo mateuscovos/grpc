@@ -51,3 +51,10 @@ output 👇
   }
 }
 ```
+
+# Run
+
+```
+go mod tidy
+go run cmd/grpcServer/main.go
+```
